@@ -41,7 +41,6 @@ cat ${dir}/text/selected_publications.tex | \
 	-e 's/\\emph{\([^}]*\)}/**\1**/g' \
 	-e 's/\\href{\([^}]*\)}{\([^}]*\)}/[\2](\1)/g' \
 	-e 's/\\section{\([^}]*\)}/# \1/g' \
-	-e 's/\\subsection{\([^}]*\)}/## \1/g' \
-	-e 's+https://www.mcs.anl.gov/~balaji+{{ site.baseurl }}+g' > publications.md
+	-e 's/\\subsection{\([^}]*\)}/## \1/g' > publications.md
 
 rm -rf ${dir}
