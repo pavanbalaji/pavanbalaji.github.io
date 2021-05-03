@@ -63,12 +63,6 @@ in only a subset of them):
    and communication fabric optimization)
 
 
-### To Learn More
-
-Please contact me by email or on LinkedIn (preferred) with any queries
-that you might have.
-
-
 ### To Apply
 
 Please apply for these positions
