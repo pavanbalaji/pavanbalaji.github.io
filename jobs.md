@@ -75,7 +75,7 @@ Please apply for these positions
 [here](https://www.facebook.com/careers/v2/jobs/684211715808268/).
 Unfortunately, the posting is shared between multiple teams, so if you
 are interested in the above mentioned roles, please reach out to
-[Pavan Balaji](www.linkedin.com/in/pavan-balaji/) or [Maxim
+[Pavan Balaji](https://www.linkedin.com/in/pavan-balaji/) or [Maxim
 Naumov](https://www.linkedin.com/in/maxim-naumov/) on LinkedIn
 expressing your interest and the specific kind of role that you are
 interested in as well.
