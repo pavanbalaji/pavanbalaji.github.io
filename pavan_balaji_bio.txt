@@ -1,25 +1,28 @@
-Dr. Pavan Balaji holds appointments as a Senior Computer Scientist and
-Group Lead at the Argonne National Laboratory, where he leads two
-groups: Programming Models and Runtime Systems and Future
-Architectures for AI.  His research interests include parallel
-programming models and runtime systems for communication and I/O on
-extreme-scale supercomputing systems, modern system architecture,
-cloud computing systems, data-intensive computing, deep learning, and
-big-data sciences.  He has more than 200 publications in these areas
-and has delivered more than 200 talks and tutorials at various
-conferences and research institutes.  He is a recipient of several
-awards including the IEEE TCSC Award for Excellence in Scalable
-Computing (Middle Career) in 2015; TEDxMidwest Emerging Leader award
-in 2013; U.S. Department of Energy Early Career award in 2012; Crain's
-Chicago 40 under 40 award in 2012; Los Alamos National Laboratory
-Director's Technical Achievement award in 2005; Ohio State University
-Outstanding Researcher award in 2005; best paper awards at PACT 2019,
-ACM HPDC 2018, IEEE ScalCom 2013, Euro PVM/MPI 2009, ISC 2009, IEEE
-Cluster 2008, Euro PVM/MPI 2008, ISC 2008; best paper finalist at
-IEEE/ACM SC 2014; best poster award at IEEE ICPADS 2018; best poster
-finalist at IEEE/ACM SC 2014; and best student poster award at ICPP
-2018.  He has served as a chair or editor for nearly 100 journals,
-conferences and workshops, and as a technical program committee member
-in numerous conferences and workshops.  He is a senior member of the
-IEEE and a distinguished member of the ACM.  More details about
-Dr. Balaji are available at http://www.mcs.anl.gov/~balaji.
+Dr. Pavan Balaji holds appointments as an Applied Research Scientist
+at Facebook AI.  Before joining Facebook, he was a Senior Computer
+Scientist and Group Lead at the Argonne National Laboratory, where he
+lead two groups: Programming Models and Runtime Systems and Future
+Architectures for AI.  His research interests include HPC
+hardware/software codesign for AI workloads, communication runtime
+systems, networks, and scale-out techniques, parallel programming
+models and runtime systems for communication and I/O on extreme-scale
+supercomputing systems, modern system architecture, cloud computing
+systems, and data-intensive computing.  He has more than 200
+publications in these areas and has delivered more than 200 talks and
+tutorials at various conferences and research institutes.  He is a
+recipient of several awards including the IEEE TCSC Award for
+Excellence in Scalable Computing (Middle Career) in 2015; TEDxMidwest
+Emerging Leader award in 2013; U.S. Department of Energy Early Career
+award in 2012; Crain's Chicago 40 under 40 award in 2012; Los Alamos
+National Laboratory Director's Technical Achievement award in 2005;
+Ohio State University Outstanding Researcher award in 2005; best paper
+awards at PACT 2019, ACM HPDC 2018, IEEE ScalCom 2013, Euro PVM/MPI
+2009, ISC 2009, IEEE Cluster 2008, Euro PVM/MPI 2008, ISC 2008; best
+paper finalist at IEEE/ACM SC 2014; best poster award at IEEE ICPADS
+2018; best poster finalist at IEEE/ACM SC 2014; and best student
+poster award at ICPP 2018.  He has served as a chair or editor for
+nearly 100 journals, conferences and workshops, and as a technical
+program committee member in numerous conferences and workshops.  He is
+a senior member of the IEEE and a distinguished member of the ACM.
+More details about Dr. Balaji are available at
+https://pavanbalaji.github.io.
