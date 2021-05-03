@@ -22,6 +22,28 @@ productization: it builds prototypes to demonstrate the value of the
 new ideas, and it works closely with many partner teams to bring them
 into production.
 
+Here are some of our recently publications, if you are interested in
+learning more about the kind of work that we do:
+
+ * DL Models and benchmarks
+   - [Deep Learning Recommendation Model for Personalization and Recommendation Systems](https://arxiv.org/abs/1906.00091)
+   - [Time-based Sequence Model for Personalization and Recommendation Systems](https://arxiv.org/abs/2008.11922)
+
+ * Algorithms
+   - [Compositional Embeddings Using Complementary Partitions for Memory-Efficient Recommendation Systems](https://arxiv.org/abs/2008.11922), KDD, 2020
+   - [Mixed Dimension Embeddings with Application to Memory-Efficient Recommendation Systems](https://arxiv.org/abs/1909.11810), CoRR, 2019
+
+ * Systems
+   - [Deep Learning Training in Facebook Data Centers: Design of Scale-up and Scale-out Systems](https://arxiv.org/abs/2008.11922), CoRR, 2020
+   - [Deep Learning Inference in Facebook Data Centers: Characterization, Performance Optimizations and Hardware Implications](https://arxiv.org/abs/2008.11922), CoRR, 2018
+   - [Bandana: Using Non-volatile Memory for Storing Deep Learning Models](https://arxiv.org/abs/2008.11922), SysML, 2019
+
+ * Quantization techniques
+   - [On Periodic Functions as Regularizers for Quantization of Neural Networks](https://arxiv.org/abs/2008.11922), CoRR, 2018
+   - [Post-Training 4-bit Quantization on Embedding Tables](https://arxiv.org/abs/2008.11922), MLSys Workshop@NeurIPS, 2019
+   - [Training Deep Learning Recommendation Model with Quantized Collective Communications](https://arxiv.org/abs/2008.11922), 2020
+
+
 
 ### AI System Codesign Research Scientist or Software Engineer Roles
 
