@@ -22,7 +22,7 @@ productization: it builds prototypes to demonstrate the value of the
 new ideas, and it works closely with many partner teams to bring them
 into production.
 
-Here are some of our recently publications, if you are interested in
+Here are some of our recent publications, if you are interested in
 learning more about the kind of work that we do:
 
  * DL Models and benchmarks
