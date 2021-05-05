@@ -30,18 +30,18 @@ learning more about the kind of work that we do:
    - [Time-based Sequence Model for Personalization and Recommendation Systems](https://arxiv.org/abs/2008.11922)
 
  * Algorithms
-   - [Compositional Embeddings Using Complementary Partitions for Memory-Efficient Recommendation Systems](https://arxiv.org/abs/2008.11922), KDD, 2020
+   - [Compositional Embeddings Using Complementary Partitions for Memory-Efficient Recommendation Systems](https://arxiv.org/abs/1909.02107), KDD, 2020
    - [Mixed Dimension Embeddings with Application to Memory-Efficient Recommendation Systems](https://arxiv.org/abs/1909.11810), CoRR, 2019
 
  * Systems
-   - [Deep Learning Training in Facebook Data Centers: Design of Scale-up and Scale-out Systems](https://arxiv.org/abs/2008.11922), CoRR, 2020
-   - [Deep Learning Inference in Facebook Data Centers: Characterization, Performance Optimizations and Hardware Implications](https://arxiv.org/abs/2008.11922), CoRR, 2018
-   - [Bandana: Using Non-volatile Memory for Storing Deep Learning Models](https://arxiv.org/abs/2008.11922), SysML, 2019
+   - [Deep Learning Training in Facebook Data Centers: Design of Scale-up and Scale-out Systems](https://arxiv.org/abs/2003.09518), CoRR, 2020
+   - [Deep Learning Inference in Facebook Data Centers: Characterization, Performance Optimizations and Hardware Implications](https://arxiv.org/abs/1811.09886), CoRR, 2018
+   - [Bandana: Using Non-volatile Memory for Storing Deep Learning Models](https://arxiv.org/abs/1811.05922), SysML, 2019
 
  * Quantization techniques
-   - [On Periodic Functions as Regularizers for Quantization of Neural Networks](https://arxiv.org/abs/2008.11922), CoRR, 2018
-   - [Post-Training 4-bit Quantization on Embedding Tables](https://arxiv.org/abs/2008.11922), MLSys Workshop@NeurIPS, 2019
-   - [Training Deep Learning Recommendation Model with Quantized Collective Communications](https://arxiv.org/abs/2008.11922), 2020
+   - [On Periodic Functions as Regularizers for Quantization of Neural Networks](https://arxiv.org/abs/1811.09862), CoRR, 2018
+   - [Post-Training 4-bit Quantization on Embedding Tables](https://arxiv.org/abs/1911.02079), MLSys Workshop@NeurIPS, 2019
+   - [Training Deep Learning Recommendation Model with Quantized Collective Communications](https://dlp-kdd.github.io/assets/pdf/a11-yang.pdf), 2020
 
 
 
@@ -50,9 +50,9 @@ learning more about the kind of work that we do:
 Roles and Responsibilities:
 
  * HPC systems software expert
- * Strong programming ability: Ranging the spectrum of prototype
-   software to production
- * Proven track record of publishing in top-tier conferences
+ * [For Software Engineer Roles] Strong programming ability: Ranging
+   the spectrum of prototype software to production
+ * [For Research Scientist Roles] Proven track record of publishing in top-tier conferences
  * Performance at the core: Ability to identify and improve software and hardware performance bottlenecks
  * Computing-at-scale: Enabling large-scale software deployments in production
  * Ability to work with and develop software solutions for cutting-edge (including off-market) hardware systems
