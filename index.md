@@ -1,6 +1,6 @@
 ## About Me
 
-I am a Applied Research Scientist at Facebook.  Before joining
+I am an Applied Research Scientist at Facebook.  Before joining
 Facebook, I used to hold appointments as a Senior computer Scientist
 and Group Lead at the Argonne National Laboratory and as an Institute
 Fellow of the Northwestern-Argonne Institute of Science and
@@ -40,8 +40,8 @@ International projects, including UCX (US), Cilkplus (US), EPEEC
 also served as a general or technical program chair or editor for
 numerous high-profile conferences and journals including IEEE/ACM SC
 in 2019 (technical program chair), IEEE Cluster in 2015 (general
-co-chair), IEEE/ACM CCGrid in 2015 (general co-chair), and so on. I
-play a prominent role in advising Argonne's computing facility on the
+co-chair), IEEE/ACM CCGrid in 2015 (general co-chair), and so on.  I
+also served as an advisor for Argonne's computing facility on the
 programming models aspects of the various upcoming supercomputers,
-including Aurora, which is expected to be the first US Exascale
-supercomputer.
+including Aurora, which is expected to be one of the first US Exascale
+supercomputers.
