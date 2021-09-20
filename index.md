@@ -1,14 +1,14 @@
 ## About Me
 
-I am an Applied Research Scientist at Facebook.  Before joining
-Facebook, I used to hold appointments as a Senior computer Scientist
-and Group Lead at the Argonne National Laboratory and as an Institute
-Fellow of the Northwestern-Argonne Institute of Science and
-Engineering at Northwestern University.
+I am an Applied Research Scientist, Technical Lead, and Manager at
+Facebook.  Before joining Facebook, I used to hold appointments as a
+Senior computer Scientist and Group Lead at the Argonne National
+Laboratory and as an Institute Fellow of the Northwestern-Argonne
+Institute of Science and Engineering at Northwestern University.
 
-At Facebook, I contribute to the HPC hardware/software codesign
-aspects of the Facebook ecosystem in a pathfinding research role.  I
-am responsible for two broad areas: (1) codesigning our AI application
+At Facebook, I contribute to the AI hardware/software codesign aspects
+of the Facebook ecosystem in a pathfinding research role.  I am
+responsible for two broad areas: (1) codesigning our AI application
 requirements for communication, network, and scale-out with various
 hardware and software solutions (both external or homegrown); and (2)
 influencing and codesigning vendor architecture and software roadmaps
