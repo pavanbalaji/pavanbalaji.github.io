@@ -87,12 +87,18 @@ in only a subset of them):
 
 ### To Apply
 
-Please apply for these positions
-[here](https://www.facebook.com/careers/v2/jobs/684211715808268/).
-Unfortunately, the posting is shared between multiple teams, so if you
-are interested in the above mentioned roles, please reach out to
-[Pavan Balaji](https://www.linkedin.com/in/pavan-balaji/), [Maxim
+For full-time positions, please apply
+[here](https://www.facebook.com/careers/v2/jobs/684211715808268/). Unfortunately,
+the posting is shared between multiple teams, so if you are interested
+in the above mentioned roles, please reach out to [Pavan
+Balaji](https://www.linkedin.com/in/pavan-balaji/), [Maxim
 Naumov](https://www.linkedin.com/in/maxim-naumov/) or [Sam
 Naghshineh](https://www.linkedin.com/in/naghshineh/) expressing your
 interest and the specific kind of role that you are interested in as
 well.
+
+For internship positions:
+
+Bachelors or masters: https://www.facebook.com/careers/v2/jobs/946116176191468/
+
+Ph.D.: https://www.facebook.com/careers/v2/jobs/375434160529847/
