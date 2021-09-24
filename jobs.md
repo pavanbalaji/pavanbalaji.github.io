@@ -97,8 +97,7 @@ Naghshineh](https://www.linkedin.com/in/naghshineh/) expressing your
 interest and the specific kind of role that you are interested in as
 well.
 
-For internship positions:
-
-Bachelors or masters: https://www.facebook.com/careers/v2/jobs/946116176191468/
-
-Ph.D.: https://www.facebook.com/careers/v2/jobs/375434160529847/
+For internship positions: Bachelors and masters students, please apply
+[here](https://www.facebook.com/careers/v2/jobs/946116176191468/);
+Ph.D. students, please apply
+[here](https://www.facebook.com/careers/v2/jobs/375434160529847/).
