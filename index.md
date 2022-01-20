@@ -1,18 +1,20 @@
 ## About Me
 
 I am an Applied Research Scientist, Technical Lead, and Manager at
-Facebook.  Before joining Facebook, I used to hold appointments as a
-Senior computer Scientist and Group Lead at the Argonne National
-Laboratory and as an Institute Fellow of the Northwestern-Argonne
-Institute of Science and Engineering at Northwestern University.
+Facebook where I lead the HPC Network Communications and Early
+Industry Partnerships Group.  Before joining Facebook, I used to hold
+appointments as a Senior computer Scientist and Group Lead at the
+Argonne National Laboratory and as an Institute Fellow of the
+Northwestern-Argonne Institute of Science and Engineering at
+Northwestern University.
 
 At Facebook, I contribute to the AI hardware/software codesign aspects
 of the Facebook ecosystem in a pathfinding research role.  I am
 responsible for two broad areas: (1) codesigning our AI application
-requirements for communication, network, and scale-out with various
-hardware and software solutions (both external or homegrown); and (2)
-influencing and codesigning vendor architecture and software roadmaps
-to align with Facebook's long-term workload requirements.
+requirements for communication, network, and scale-up/scale-out with
+various hardware and software solutions (both external or homegrown);
+and (2) influencing and codesigning vendor architecture and software
+roadmaps to align with Facebook's long-term workload requirements.
 
 In my previous job at Argonne, I have lead two groups. The first group
 focused on Programming Models and Runtime Systems and mainly covering
