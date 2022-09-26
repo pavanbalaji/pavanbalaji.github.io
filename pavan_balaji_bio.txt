@@ -1,11 +1,13 @@
-Dr. Pavan Balaji holds appointments as an Applied Research Scientist,
-Technical Lead, and Manager, at Facebook AI where he leads the HPC
-Network Communications and Early Industry Partnerships Group.  Before
-joining Facebook, he was a Senior Computer Scientist and Group Lead at
-the Argonne National Laboratory, where he lead two groups: Programming
-Models and Runtime Systems and Future Architectures for AI.  His
-research interests include HPC hardware/software codesign for AI
-workloads, communication runtime systems, networks, and scale-out
+Dr. Pavan Balaji holds appointments as a Research Scientist and
+Technical Lead at Meta Platforms.  In his current role, he drives
+early industry partnerships for developing large-scale supercomputers
+in support of Meta's AI workloads, and the design and optimization of
+HPC networks, communication libraries, and their supporting ecosystem.
+Before joining Meta, he was a Senior Computer Scientist and Group Lead
+at the Argonne National Laboratory, where he lead two groups:
+Programming Models and Runtime Systems and Future Architectures for
+AI.  His research interests include HPC hardware/software codesign for
+AI workloads, communication runtime systems, networks, and scale-out
 techniques, parallel programming models and runtime systems for
 communication and I/O on extreme-scale supercomputing systems, modern
 system architecture, cloud computing systems, and data-intensive
