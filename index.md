@@ -1,13 +1,6 @@
 ## About Me
 
-Dr. Pavan Balaji is a Principal Research Scientist at Meta AI, where
-he serves as the technical lead for two areas: (1) GPU training
-systems (architectural design, performance analysis); and (2) AI
-communication libraries for our various hardware systems (GPUs, Meta
-internal silicon).  Dr. Balaji helped build some of Meta's largest AI
-supercomputing systems, such as the recent Grand Teton architecture,
-that power Meta's internal AI workloads, including recommendation and
-ranking models and Generative AI models such as Llama.
+Dr. Pavan Balaji is a Distinguished Research Scientist at Meta’s Superintelligence Laboratory (MSL), where he serves as the overall technical lead for AI communication libraries for GPUs and Meta’s internal silicon. His work includes key initiatives such as [NCCLX](https://arxiv.org/abs/2510.20171) and [Torchcomms](https://pytorch.org/blog/torchcomms/), which serve as core infrastructure for Meta's AI workloads. Additionally, he has contributed to Meta’s largest GPU supercomputers, including the Grand Teton and Catalina systems. These 100K+ GPU platforms form the backbone for Meta's AI training and serving infrastructure across Generative AI models (Muse Spark, Llama), Instagram, Facebook Ads, and Reels.
 
 Before joining Meta, Dr. Balaji held appointments as a Senior
 computer Scientist and Group Lead at the Argonne National Laboratory
